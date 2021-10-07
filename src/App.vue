@@ -129,7 +129,7 @@
   .form-control {
     max-width: 410px !important;
     display: inline-block;
-
+    color:#003580;
   }
 
   .button1 {

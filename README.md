@@ -1,4 +1,4 @@
-# vue-chat
+# Vue-chat
 
 ## Project setup in Vue-chat/
 ```

@@ -1,24 +1,21 @@
 # vue-chat
 
-## Project setup
+## Project setup in Vue-chat/
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compiles and hot-reloads for development in Vue-chat/
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Project setup in Vue-chat/backend
 ```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
+npm install
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Compiles and hot-reloads for development in Vue-chat/backend
+```
+npm run
+```
